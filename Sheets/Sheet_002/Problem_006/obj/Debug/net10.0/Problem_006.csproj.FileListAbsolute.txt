@@ -1,0 +1,14 @@
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\obj\Debug\net10.0\Problem_006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\obj\Debug\net10.0\Problem_006.AssemblyInfoInputs.cache
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\obj\Debug\net10.0\Problem_006.AssemblyInfo.cs
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\obj\Debug\net10.0\Problem_006.csproj.CoreCompileInputs.cache
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\bin\Debug\net10.0\Problem_006.exe
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\bin\Debug\net10.0\Problem_006.deps.json
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\bin\Debug\net10.0\Problem_006.runtimeconfig.json
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\bin\Debug\net10.0\Problem_006.dll
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\bin\Debug\net10.0\Problem_006.pdb
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\obj\Debug\net10.0\Problem_006.dll
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\obj\Debug\net10.0\refint\Problem_006.dll
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\obj\Debug\net10.0\Problem_006.pdb
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\obj\Debug\net10.0\Problem_006.genruntimeconfig.cache
+C:\Users\techno lab\source\repos\Problems\Sheet_002\Problem_006\obj\Debug\net10.0\ref\Problem_006.dll
